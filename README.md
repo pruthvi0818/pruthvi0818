@@ -1,6 +1,6 @@
 # Hi, I'm Pruthvi Raj 👋
 
-### Mechanical Engineer | Industry 4.0 | Automation | Robotics | CAD/CAE
+### Mechanical Engineer | Industry 4.0 | Automation | Robotics | CAD/CAE | Software Development
 
 I am a Mechanical Engineer specializing in **Industry 4.0, Automation, Robotics, and 3D Manufacturing**, currently pursuing an MEng in Industry 4.0: Automation, Robotics & 3D Manufacturing at SRH Hochschule Berlin.
 
