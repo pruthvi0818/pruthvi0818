@@ -39,6 +39,7 @@ technology.
 - R
 - Artificial Intelligence
 - Deep Learning
+- In progress: Python, Data Science & Deep Learning coursework
 
 ---
 
