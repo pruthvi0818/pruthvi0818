@@ -4,7 +4,10 @@
 
 I am a Mechanical Engineer specializing in **Industry 4.0, Automation, Robotics, and 3D Manufacturing**, currently pursuing an MEng in Industry 4.0: Automation, Robotics & 3D Manufacturing at SRH Hochschule Berlin.
 
-My interests lie at the intersection of **mechanical engineering, intelligent manufacturing, robotics, digitalization, and data-driven process optimization**.
+OBJECTIVE: Seeking roles in industrial automation & robotics, with growing interest in data science and machine learning applications
+in engineering. Multilingual Mechanical Engineer with hands-on experience across quality assurance, industrial robotics, and Industry
+4.0 systems, combining proficiency in Siemens NX, KUKA robotics, and CAD/CFD simulation with published research in agricultural
+technology.
 
 ---
 
