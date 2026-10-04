@@ -46,7 +46,7 @@ technology.
 ## 🚀 Projects
 
 ### 🔹 Design and Analysis of Polycarbonate NACA Duct
-Designed and optimized a submerged NACA duct using **Siemens NX and ANSYS Fluent** for UAV cooling applications.
+  Designed and optimized a submerged NACA duct using **Siemens NX and ANSYS Fluent** for UAV cooling applications.
 
 - Performed CFD analysis
 - Compared Aluminium 6061 and Polycarbonate
@@ -57,14 +57,14 @@ Designed and optimized a submerged NACA duct using **Siemens NX and ANSYS Fluent
 ### 🔹 Autonomous Vision-Guided Pick-and-Place with igus Robot Arm
 
 - Built an autonomous system that detects four randomly placed boxes with OpenCV, picks them nearest-first and stacks
-them at a storage position received over MQTT.
+  them at a storage position received over MQTT.
 - Controlled the robot via CRI commands and published status and pick/place coordinates over MQTT, with live OpenCV
-visualization of detected, selected and target boxes.
+  visualization of detected, selected and target boxes.
 
 ### 🔹 Smartphone-Based Pedestrian Step Detection (Digital Signal Processing)
 
 - Processed 54 IMU recordings (3 participants × 3 carrying positions × 3 speeds) in Python; compared Moving Average,
-Butterworth and 1D Kalman filters with adaptive peak detection.
+  Butterworth and 1D Kalman filters with adaptive peak detection.
 - Reached 92.5% step-count accuracy (Moving Average) and 91.1% (Kalman) vs. 77.5% (Butterworth).
 
 ### 🔹 Multipurpose Milling Machine
